@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:885px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u46_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:685px;
+  height:308px;
+}
+#u46 {
+  position:absolute;
+  left:200px;
+  top:300px;
+  width:685px;
+  height:308px;
+}
+#u47 {
+  position:absolute;
+  left:2px;
+  top:146px;
+  width:681px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u46_ann {
+  position:absolute;
+  left:878px;
+  top:296px;
+  width:1px;
+  height:1px;
+}
